@@ -1,7 +1,7 @@
 {
   "name": "cordova-plugin-media",
   "version": "1.0.1-dev",
-  "description": "Cordova Media Plugin",
+  "description": "Cordova Media Plugin with GCD",
   "cordova": {
     "id": "cordova-plugin-media",
     "platforms": [
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://git-wip-us.apache.org/repos/asf/cordova-plugin-media.git"
+    "url": "https://github.com/mikeblakeney/cordova-plugin-media.git"
   },
   "keywords": [
     "cordova",
